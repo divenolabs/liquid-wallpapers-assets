@@ -1,26 +1,354 @@
 [
   {
     "id": "1",
-    "url": "https://github.com/divenolabs/liquid-wallpapers-assets/blob/main/51420441754_7df5d32343_4k.jpg?raw=true",
-    "title": "Spidey 4K",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/1920x1200-5097605-steve-jobs-wallpaper.jpg",
+    "title": "1920X1200-5097605-STEVE-JOBS-WALLPAPER",
     "photographer": "Diveno Labs",
-    "photographerUrl": "https://github.com/divenolabs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
     "downloadLocation": ""
   },
   {
     "id": "2",
-    "url": "PASTE_YOUR_SECOND_IMAGE_RAW_LINK_HERE",
-    "title": "Neon City",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/1920x1200-5097605-steve-jobs-wallpaper2.png",
+    "title": "1920X1200-5097605-STEVE-JOBS-WALLPAPER2",
     "photographer": "Diveno Labs",
-    "photographerUrl": "https://github.com/divenolabs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
     "downloadLocation": ""
   },
   {
     "id": "3",
-    "url": "PASTE_YOUR_THIRD_IMAGE_RAW_LINK_HERE",
-    "title": "Abstract Flow",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/48953947006_c0c0602b1d_o.jpg",
+    "title": "48953947006 C0C0602B1D O",
     "photographer": "Diveno Labs",
-    "photographerUrl": "https://github.com/divenolabs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "4",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/48954138922_587a94b356_o.jpg",
+    "title": "48954138922 587A94B356 O",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "5",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/51420441754_7df5d32343_4k.jpg",
+    "title": "51420441754 7DF5D32343 4K",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "6",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/51473959883_96a3a08a72_o.jpg",
+    "title": "51473959883 96A3A08A72 O",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "7",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Earth%20Wallpaper3.jpg",
+    "title": "EARTH WALLPAPER3",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "8",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/For%20Green%20Screen%20Background.jpg",
+    "title": "FOR GREEN SCREEN BACKGROUND",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "9",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Gaining%20everything.jpg",
+    "title": "GAINING EVERYTHING",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "10",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Galaxy%20Reflection%20Edited.jpg",
+    "title": "GALAXY REFLECTION EDITED",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "11",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Galaxy%20Reflection.jpg",
+    "title": "GALAXY REFLECTION",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "12",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Galaxy.jpg",
+    "title": "GALAXY",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "13",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Intersteller.jpg",
+    "title": "INTERSTELLER",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "14",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Loki%20Final%20Season%20Wallpaper.png",
+    "title": "LOKI FINAL SEASON WALLPAPER",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "15",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Loki-Final-Season-Wallpaper-Phone.png",
+    "title": "LOKI-FINAL-SEASON-WALLPAPER-PHONE",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "16",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Loki-Season02-Mobile-Wallpaper.png",
+    "title": "LOKI-SEASON02-MOBILE-WALLPAPER",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "17",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Meta%20Banner%2001.png",
+    "title": "META BANNER 01",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "18",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Meta%20Banner%2002.png",
+    "title": "META BANNER 02",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "19",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Meta%20Banner%2003.png",
+    "title": "META BANNER 03",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "20",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Meta%20wallpaper.png",
+    "title": "META WALLPAPER",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "21",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/ROG-Zephyrus-Duo_3840x2400_main_screen.jpg",
+    "title": "ROG-ZEPHYRUS-DUO 3840X2400 MAIN SCREEN",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "22",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Rog%20Wall.jpg",
+    "title": "ROG WALL",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "23",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Spaceman-Wallpaper.jpg",
+    "title": "SPACEMAN-WALLPAPER",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "24",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/StockSnap_SQBE2C5NWT.jpg",
+    "title": "STOCKSNAP SQBE2C5NWT",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "25",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/Tony%20Stark%20Wall.jpeg",
+    "title": "TONY STARK WALL",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "26",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/X13_wallpaper_16x10_4k.jpg",
+    "title": "X13 WALLPAPER 16X10 4K",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "27",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/astronaut-creating-parralel-space-4k-n1-3840x2160.jpg",
+    "title": "ASTRONAUT-CREATING-PARRALEL-SPACE-4K-N1-3840X2160",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "28",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/astronaut-creating-parralel-space.jpg",
+    "title": "ASTRONAUT-CREATING-PARRALEL-SPACE",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "29",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/astronaut_art_space_129529_3840x2160.jpg",
+    "title": "ASTRONAUT ART SPACE 129529 3840X2160",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "30",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/earth_horizon_3.jpg",
+    "title": "EARTH HORIZON 3",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "31",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/fakurian-design-58Z17lnVS4U-unsplash.jpg",
+    "title": "FAKURIAN-DESIGN-58Z17LNVS4U-UNSPLASH",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "32",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/falcon.jpg",
+    "title": "FALCON",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "33",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/galaxy%20view%20wall.jpg",
+    "title": "GALAXY VIEW WALL",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "34",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/galaxy_universe_stars_125862_2560x1440.jpg",
+    "title": "GALAXY UNIVERSE STARS 125862 2560X1440",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "35",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/milkyway%20vertical.jpg",
+    "title": "MILKYWAY VERTICAL",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "36",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/my%20fit%20astronaut_6147x4098_vji5a.jpg",
+    "title": "MY FIT ASTRONAUT 6147X4098 VJI5A",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "37",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/nebua01.jpg",
+    "title": "NEBUA01",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "38",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/neon-laser-lights-triangular-shape-with-black-background.jpg",
+    "title": "NEON-LASER-LIGHTS-TRIANGULAR-SHAPE-WITH-BLACK-BACKGROUND",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "39",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/pexels-frank-cone-3607542.jpg",
+    "title": "PEXELS-FRANK-CONE-3607542",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "40",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/spiderman-miles-lost-in-space-4k-0f-2560x1440.jpg",
+    "title": "SPIDERMAN-MILES-LOST-IN-SPACE-4K-0F-2560X1440",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "41",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/spiders%20arachnids%202330x1800%20wallpaper_www.animalhi.com_21.jpg",
+    "title": "SPIDERS ARACHNIDS 2330X1800 WALLPAPER WWW",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "42",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/tony-stark-in-the-cave-5v-2048x1152.jpg",
+    "title": "TONY-STARK-IN-THE-CAVE-5V-2048X1152",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "43",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/untitled.png",
+    "title": "UNTITLED",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
+    "downloadLocation": ""
+  },
+  {
+    "id": "44",
+    "url": "https://raw.githubusercontent.com/divenolabs/liquid-wallpapers-assets/main/windows-11-stock-official-colorful-3840x2400-5663.jpg",
+    "title": "WINDOWS-11-STOCK-OFFICIAL-COLORFUL-3840X2400-5663",
+    "photographer": "Diveno Labs",
+    "photographerUrl": "https://www.instagram.com/rahulshekhawatb",
     "downloadLocation": ""
   }
 ]
